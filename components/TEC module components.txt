@@ -1,0 +1,24 @@
+1. TEC 12706 
+
+This is 12V, 3.5A, 42Watts. In just 3 seconds it gets freezing cold at cold side
+and burning hot in the hot side.
+
+When current is constant, for a variable voltage, the temperature can be controlled,
+but the voltage range is so squeezed: Maybe, becomes hard to control when current is
+constant and voltage varies. This can be seen in datasheet.
+
+We can control the Peltier's Temp by varying power as well. Doing this we can harness
+precise control: for our project, precise control of the Peltier is a must. The
+characteristic is found in Datasheet.
+
+Product Maker: Hebei I.T. (Shanghai) Co., Ltd.
+
+2. Thermal paste
+We should apply thermal paste in between TEC and heatsink in order to, physically,
+keep them attached while still making heat transfer possible.
+
+3. Heat Sink
+We need heat sink to -- no need to mention!
+
+4. Fan (much like CPU fan)
+We need fan to -- again, no need to mention!
